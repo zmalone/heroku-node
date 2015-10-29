@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "run node on heroku with saner defaults for memory management.",
+  "main": "index.js",
+  "bin": {
+    "heroku-node": "heroku-node.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanetix/heroku-node.git"
+  },
+  "keywords": [
+    "heroku",
+    "memory-management"
+  ],
+  "author": "Lanetix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanetix/heroku-node/issues"
+  },
+  "homepage": "https://github.com/lanetix/heroku-node#readme"
+}
