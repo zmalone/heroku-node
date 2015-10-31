@@ -1,6 +1,6 @@
 {
   "name": "heroku-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "run node on heroku with saner defaults for memory management.",
   "main": "index.js",
   "bin": {
